@@ -1,0 +1,8 @@
+body {
+  background: url('./images/bg-pattern-top.svg') no-repeat,
+  url('./images/bg-pattern-bottom.svg') no-repeat;
+  background-size: 70%;
+  background-position-x: -60%, 190%;
+  background-position-y: center, -40%;
+  background-attachment: local;
+}
